@@ -1,0 +1,1 @@
+The files contain R code (.r) and workspace (.rdata) to a genetic algorithm, the array histogram-based sampling algorithm (AHBSA), to assemble linear multidimensional forced-choice questionnaires (MFCQs) with any block sizes. The algorithm also works for traditional multidimensional Likert and cognitive test forms, where items can be seen as having a block size of one. 
